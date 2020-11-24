@@ -3,5 +3,52 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG1656
   title: གསུང་འབུམ། བློ་བཟང་རྒྱལ་མཚན་སེངྒེ
-  volume: ''
+  volume:
+    55b3298b05524ac38a8f4a400783f393:
+      image_group_id: I1KG1730
+      title: Volume 1 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 1
+      total_pages: 461
+    7086fd323a0a495f9c9a94af6698f523:
+      image_group_id: I1KG1731
+      title: Volume 2 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 2
+      total_pages: 638
+    09515f12bfa2410ca34a7bc932952292:
+      image_group_id: I1KG1732
+      title: Volume 3 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 3
+      total_pages: 592
+    4e1fa44b7c644b94a134317e4f2380f8:
+      image_group_id: I1KG1733
+      title: Volume 4 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 4
+      total_pages: 588
+    70454bc50fe14e2395a8237e74573edb:
+      image_group_id: I1KG1734
+      title: Volume 5 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 5
+      total_pages: 618
+    24d8b2fc11ce4e2fadd733ce4c7ab69b:
+      image_group_id: I1KG1735
+      title: Volume 6 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 6
+      total_pages: 474
+    9b6d81144b084d0c9e497585aefef3e5:
+      image_group_id: I1KG1736
+      title: Volume 7 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 7
+      total_pages: 376
+    47521ae010024136a01649a902c3e99b:
+      image_group_id: I1KG1737
+      title: Volume 8 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
+      volume_number: 8
+      total_pages: 718
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། བློ་བཟང་རྒྱལ་མཚན་སེངྒེ
+  author: ''
+  sku: P007846
+  cover: cover.jpg
+  layers:
+  - pagination
