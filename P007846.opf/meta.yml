@@ -5,46 +5,54 @@ source_metadata:
   title: གསུང་འབུམ། བློ་བཟང་རྒྱལ་མཚན་སེངྒེ
   author: ''
   volumes:
-    3c54ffe65a9145f289a24216c0f538ca:
+    55b3298b05524ac38a8f4a400783f393:
       image_group_id: I1KG1730
-      title: ''
+      title: Volume 1 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 1
       total_pages: 461
-    e9a75de662c44a00b52165fa844b24b0:
+      base_file: v001.txt
+    7086fd323a0a495f9c9a94af6698f523:
       image_group_id: I1KG1731
-      title: ''
+      title: Volume 2 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 2
       total_pages: 638
-    704ed7b12803444f93d5e0deecc4c463:
+      base_file: v002.txt
+    09515f12bfa2410ca34a7bc932952292:
       image_group_id: I1KG1732
-      title: ''
+      title: Volume 3 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 3
       total_pages: 592
-    54d685c77bb143beb75bee3cf57c74c7:
+      base_file: v003.txt
+    4e1fa44b7c644b94a134317e4f2380f8:
       image_group_id: I1KG1733
-      title: ''
+      title: Volume 4 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 4
       total_pages: 588
-    8a3bc4d55fb348b39679d370f0b7dad9:
+      base_file: v004.txt
+    70454bc50fe14e2395a8237e74573edb:
       image_group_id: I1KG1734
-      title: ''
+      title: Volume 5 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 5
       total_pages: 618
-    e11667a2e01643cb8f171a2e5c158732:
+      base_file: v005.txt
+    24d8b2fc11ce4e2fadd733ce4c7ab69b:
       image_group_id: I1KG1735
-      title: ''
+      title: Volume 6 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 6
       total_pages: 474
-    91d6f6382c0f4e54936ec2b71c0b6176:
+      base_file: v006.txt
+    9b6d81144b084d0c9e497585aefef3e5:
       image_group_id: I1KG1736
-      title: ''
+      title: Volume 7 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 7
       total_pages: 376
-    94e17d2130f54cc08ba81d7f212c0fef:
+      base_file: v007.txt
+    47521ae010024136a01649a902c3e99b:
       image_group_id: I1KG1737
-      title: ''
+      title: Volume 8 of gsung 'bum/_blo bzang rgyal mtshan seng+ge
       volume_number: 8
       total_pages: 718
+      base_file: v008.txt
 ebook_metadata:
   title: གསུང་འབུམ། བློ་བཟང་རྒྱལ་མཚན་སེངྒེ
   author: ''
